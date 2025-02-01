@@ -4,7 +4,7 @@
 
 _Create and run a GitHub Actions workflow._
 Smiley face: &#128512;
-
+Heart: &#10084;
 
 </header>
 
